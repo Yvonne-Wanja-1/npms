@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Yvonne-Wanja-1/npms/issues"
   },
-  "homepage": "https://github.com/Yvonne-Wanja-1/npms#readme"
+  "homepage": "https://github.com/Yvonne-Wanja-1/npms#readme",
+  "dependencies": {
+    "@faker-js/faker": "^10.1.0"
+  }
 }
